@@ -1,4 +1,4 @@
-# Study web space1
+# Study web space
 ## 1. 前端
 ### 1.1 HTML
 ### 1.2 CSS
